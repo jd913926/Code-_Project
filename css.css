@@ -1,0 +1,144 @@
+h1{
+    font-size: 50px;
+    text-size-adjust: 100%;    
+    top: -40px; 
+    left: 70px;
+    position: relative;
+    color: aliceblue;
+}
+
+img {
+      
+      position: relative;
+      bottom: 40px;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    
+}
+
+h2{
+  text-align: left;
+  position: relative;
+  right: -70px;
+  bottom: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+  text-align: right;
+  left: -550px;
+  position: relative;
+  bottom: -50px;
+}
+
+.profilepic{
+text-align: right;
+right: 70px;
+position: relative;
+}
+
+hr {
+  
+  width: 1800px;
+  height: 5px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color:black;
+  bottom: 20px;
+}
+p{
+  position: relative;
+  right: -600px;
+  top: -10px;
+}
+.rectangle {
+  height: 75px;
+  width: 1650px;
+  background-color: #9dc7f8;
+  position: relative;
+  left: 90px;
+  top: -170px;
+}
+.banner{
+  height: 300px;
+  width: 1800px;
+  bottom: -210px;
+  left: 50px;
+}
+.top{
+  top: -280px;
+  position: relative;
+}
+.Insert{
+  position: relative;
+  top: -250px;
+  left: -500px;
+  font-size: medium;
+}
+.change{
+  position: relative;
+  top: -500px;
+  color: aliceblue;
+  left: 150px;
+}
+.edit{
+  width: 50px;
+  height: 50px;
+  position:relative;
+  left: 1620px;
+  top: -550px;
+}
+.shapeback{
+  width: 350px;
+  height: 600px;
+  background-color: rgb(245, 245, 245);
+  position: relative;
+  bottom: 320px;
+  left: -20px;
+}
+.one{
+  width: 620px;
+  height: 50px;
+  background-color: aliceblue;
+  position: relative;
+  bottom: 900px;
+  left: 450px;
+}
+.two{
+  width: 620px;
+  height: 50px;
+  background-color: aliceblue;
+  position: relative;
+  bottom: 950px;
+  left: 1100px;
+}
+.back{
+  width: 1350px;
+  height: 1500px;
+  background-color: aliceblue;
+  left: 400px;
+  position: relative;
+  bottom: 920px;
+}
+.underback{
+  width: 350px;
+  height: 350px;
+  background-color: aliceblue;
+  position: absolute;
+  bottom: 1550px;
+  left: -20px;
+}
+.text{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: large;
+  
+}
+.Feed{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: large;
+}
